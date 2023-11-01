@@ -1,0 +1,119 @@
+.body {
+  background-image: url('/assets/image/background4.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto; 
+  height: 95vh; 
+  width: 100%; 
+
+}
+
+.dashboard {
+  margin-top: 130px;
+
+}
+.menu2 {
+  margin-top: 180px;
+  color: #f7f4f4;
+  
+
+}
+
+marquee img {
+  height: 10rem;
+  margin-right: 12px;
+}
+
+  h2{
+    font-size: 40px;
+    color: #ffffff;
+    
+  }
+ 
+  
+  
+  
+  .btn-primary{
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #0d0d0d;
+    background-color: #fbe595;
+    width: 120px;
+    margin-left: 200px;
+    font-weight: bold;
+  }
+  
+  
+  
+  
+  
+  .form-group {
+    margin-top: 180px;
+    height: 200px;
+    width: 500px;
+ 
+
+  margin-left: 1000px;
+  
+  }
+  .btn-Secondry{
+   
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fcfbfb;
+    background-color: #283138;
+    width: 100px;
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+ 
+ 
+  .menu{
+    height: 50px;
+  line-height: 40px;
+  text-align: right;  
+  
+}
+
+a:link {
+   
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  
+  
+  }
+
+  a:visited {
+    color:rgb(250, 249, 249);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+   
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+

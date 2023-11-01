@@ -1,0 +1,108 @@
+.body {
+    background-image: url('/assets/image/background5.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto; 
+    height: 95vh; 
+    width: 100%; 
+  
+}
+.form {
+    
+    max-width: 600px;
+   width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color:  #fbe595;
+    margin-top: 90px;
+    margin-left: 550px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 300px;
+  }
+  
+  .form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+ 
+  h2{
+    font-size: 30px;
+    color:#353544
+  }
+
+
+  .btn-primary{
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #0d0d0d;
+    background-color: #ffffff;
+    width: 120px;
+    margin-left: 140px;
+    font-weight: bold;
+  }
+
+.btn-Secondry{
+   
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fcfbfb;
+    background-color: #283138;
+    width: 100px;
+    margin-right: 10px;
+    font-weight: bold;
+  }
+
+
+
+
+.menu{
+    height: 50px;
+  line-height: 40px;
+  text-align: right;  
+  
+}
+
+a:link {
+   
+    color: rgb(2, 2, 2);
+    background-color: transparent;
+    text-decoration: none;
+  
+  
+  }
+
+  a:visited {
+    color:rgb(10, 10, 10);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+   
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+p{
+  text-align: center;
+}
+
+.dashboard {
+  margin-top: 200px;
+  margin-left: 50px;
+
+}
